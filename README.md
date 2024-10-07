@@ -24,3 +24,15 @@ To run the project locally, ensure you have the following:
 1. Clone the repository:
    ```bash
    git clone https://github.com/ananyapawar601/ChatApp.git
+
+2. Navigate to the directory:
+   ```bash
+   cd ChatApp
+
+3. Open the project in your IDE (e.g., IntelliJ IDEA or Eclipse).
+
+4. Run the Server:
+   Locate and run the Java file responsible for starting the server (e.g., Server.java).
+
+5. Run the Client:
+   Open another instance of your IDE, run the client file (e.g., Client.java), and connect using the IP address and port used by the server.
