@@ -19,7 +19,7 @@ public class UserOne implements ActionListener, Runnable {
     
     BufferedReader reader;
     BufferedWriter writer;
-    String name = "Kaleen Bhaiya";
+    String name = "Bill";
     
     UserOne() {
         
@@ -72,13 +72,13 @@ public class UserOne implements ActionListener, Runnable {
         morevert.setBounds(420, 20, 10, 25);
         p1.add(morevert);
         
-        JLabel name = new JLabel("Mirzapur");
+        JLabel name = new JLabel("York");
         name.setBounds(110, 15, 100, 18);
         name.setForeground(Color.WHITE);
         name.setFont(new Font("SAN_SERIF", Font.BOLD, 18));
         p1.add(name);
         
-        JLabel status = new JLabel("Kaleen, Guddu, Bablu, Sweety, IG Dubey, Shukla");
+        JLabel status = new JLabel("Jay, Matt, Chris, Tony, Deep, Ryan");
         status.setBounds(110, 35, 160, 18);
         status.setForeground(Color.WHITE);
         status.setFont(new Font("SAN_SERIF", Font.BOLD, 14));
